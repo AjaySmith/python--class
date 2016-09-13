@@ -1,0 +1,32 @@
+import turtle
+t = turtle.Pen()
+
+t.forward(20)
+t.up()
+t.forward(5)
+t.left(90)
+t.forward(5)
+t.down()
+
+t.forward(20)
+t.up()
+t.forward(5)
+t.left(90)
+t.forward(5)
+t.down()
+
+t.forward(20)
+t.up()
+t.forward(5)
+t.left(90)
+t.forward(5)
+t.down()
+
+t.forward(20)
+t.up()
+t.forward(5)
+t.left(90)
+t.forward(15)
+t.left(90)
+t.forward(30)
+t.down()
